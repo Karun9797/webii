@@ -4,7 +4,7 @@
 $db_server = "localhost";
 $db_user = "root";
 $db_password = ""; 
-$db_name = "PHPClass"; //add your database name
+$db_name = "PHPClass"; //add your database name  iii
 $conn = "";
 
 try{
