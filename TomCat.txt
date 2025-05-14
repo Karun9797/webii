@@ -1,0 +1,1 @@
+Request => connectors => (request parsing) => container => mapping => Servlet
